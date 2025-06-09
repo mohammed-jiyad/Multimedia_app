@@ -1,16 +1,33 @@
 # multimedia_application
 
-A new Flutter project.
+This is a Flutter-based multimedia application UI that replicates the look and feel of a streaming platform like Netflix. The app focuses on building a visually rich, intuitive front-end interface and includes:
 
-## Getting Started
+🚀 Splash Screen
 
-This project is a starting point for a Flutter application.
+🔍 Main Search Page
 
-A few resources to get you started if this is your first Flutter project:
+📄 Details Page
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+💡 Note: This is a UI prototype only — no backend or streaming functionality is included.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📱 Key Screens
+🚀 Splash Screen
+A modern splash screen that displays the app logo and loads the UI smoothly.
+
+🔍 Main Search Page
+Responsive search interface
+
+Horizontal and vertical lists of movie/show thumbnails
+
+Category sections (Trending, Popular, etc.)
+
+Smooth UI animations and transitions
+
+📄 Detail Page
+Show/Movie title, cover image, and description
+
+Additional info: genre, cast, year, etc.
+
+# 🎥 Video Demo
+▶️ Watch the demo here:
+[Click to Watch on YouTube](https://youtu.be/e8g9_5HJfgs)
